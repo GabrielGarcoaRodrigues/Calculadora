@@ -5,3 +5,4 @@ altair
 vega_datasets
 matplotlib
 openpyxl
+streamlit_modal
