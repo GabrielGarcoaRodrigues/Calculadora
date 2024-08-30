@@ -6,3 +6,5 @@ vega_datasets
 matplotlib
 openpyxl
 streamlit_modal
+gspread
+oauth2client
